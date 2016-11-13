@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Image_edit</string>
+    <string name="mCurrentPhotoPath">Gallery</string>
+</resources>
